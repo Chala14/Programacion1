@@ -14,10 +14,79 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Sumar(15, 3));
+            int num1 = 5;
+            int num2 = 3;
+            int num3;
+            // operadores unarios
+            num3 = -num1;
+            Console.WriteLine("El número negativo de num1 es {0}",num3);
+
+            bool haysol = true;
+            Console.WriteLine("Hay sol? {0}", !haysol);
+            
+
+            //Operadores de adicion
+            int num=2;
+            num++;
+            Console.WriteLine("num es {0}", num);
+            Console.WriteLine("num es {0}", num++);
+            Console.WriteLine("num es {0}", num);
+
+            //operadores de sustracción
+            num--;
+            Console.WriteLine("num es {0}", num);
+            Console.WriteLine("num es {0}", --num);
+            Console.WriteLine("num es {0}", num);
+
+            //operadores matemáticos
+
+            int resultado = num1 + num2;
+            Console.WriteLine("El resultado de " + num1 + " + " + num2 + " es " + resultado);
+            resultado = num1 - num2;
+            Console.WriteLine("El resultado de " + num1 + " - " + num2 + " es " + resultado);
+            resultado = num1 * num2;
+            Console.WriteLine("El resultado de " + num1 + " * " + num2 + " es " + resultado);
+            double resultado1 = num1 / num2;
+            Console.WriteLine("El resultado de " + num1 + " / " + num2 + " es " + resultado1);
+            
+            //operador modular
+            resultado = num1 % num2;
+            Console.WriteLine("El resultado de " + num1 + " % " + num2 + " es " + resultado);
+
+
+            //operadores relacionales
+            bool esMenor;
+            esMenor = num1 < num2;
+            Console.WriteLine("El resultado de " + num1 + " < " + num2 + " es " + esMenor);
+
+            //operadores de igualdad
+            bool esIgual;
+            esIgual = num1 == num2;
+            Console.WriteLine("El resultado de " + num1 + " = " + num2 + " es " + esIgual);
+
+            esIgual = num1 != num2;
+            Console.WriteLine("El resultado de " + num1 + " != " + num2 + " es " + esIgual);
+
+            //operadoes condicionales
+            //Y
+
+            bool esMenorYSoleado;
+            esMenorYSoleado = esMenor && haysol;
+            Console.WriteLine("El resultado de " + esMenor + " && " + haysol + " es " + esMenorYSoleado);
+            //O
+            esMenorYSoleado = esMenor || haysol;
+            Console.WriteLine("El resultado de " + esMenor + " && " + haysol + " es " + esMenorYSoleado);
+
+
+
+
+
+
+            Console.Read();
+            /*Console.WriteLine(Sumar(15, 3));
             Console.WriteLine(Multi(2, 8));
             Console.WriteLine(Divide(15, 8));
-            Console.Read();
+            Console.Read();*/
             //EscribeAlgo();
             //EscribeAlgoEspecifico("Soy un argumento y me llamaron desde un método");
             //Console.WriteLine("Mi nacimiento fue el: {0}", nacimiento);

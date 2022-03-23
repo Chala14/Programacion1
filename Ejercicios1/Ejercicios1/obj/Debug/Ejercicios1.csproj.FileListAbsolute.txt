@@ -1,0 +1,8 @@
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\bin\Debug\Ejercicios1.exe.config
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\bin\Debug\Ejercicios1.exe
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\bin\Debug\Ejercicios1.pdb
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.csproj.AssemblyReference.cache
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.csproj.SuggestedBindingRedirects.cache
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.csproj.CoreCompileInputs.cache
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.exe
+D:\Users\Alex Zapata\Documents\Umanizales\Programacion I\GitHub\Programacion1\Ejercicios1\Ejercicios1\obj\Debug\Ejercicios1.pdb
