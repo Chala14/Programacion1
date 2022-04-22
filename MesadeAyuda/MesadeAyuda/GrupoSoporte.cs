@@ -8,10 +8,9 @@ namespace MesadeAyuda
 {
     public class GrupoSoporte
     {
-        private int Id;
-        public int [] Usuario;
-        public Persona Persona;
-
+        public int Id;
+        public string LiderGrupo;
+        
         public CrearGrupoSoporte()/*Método*/
         {
         }

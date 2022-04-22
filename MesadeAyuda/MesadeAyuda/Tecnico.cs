@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace MesadeAyuda
 {
-    public class Tecnico:Usuario /*Herencia*/
+    public class Tecnico:Persona /*Herencia*/
     {
-        public int Id;
-        public Tecnico Tecnico;
+        public string NombreTecnico;
         public GrupoSoporte GrupoSoporte;
 
         public Tecnico(Persona persona):base(persona) /*Herencia*/

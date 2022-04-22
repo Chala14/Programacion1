@@ -29,7 +29,7 @@ namespace MesadeAyuda
         public Actualizar()/*Método*/
         { 
         }
-        public ActivarDesactivar() /*Método*/
+        public bool ActivarDesactivar() /*Método*/
         { 
         }
     }

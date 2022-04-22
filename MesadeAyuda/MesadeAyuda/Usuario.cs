@@ -8,12 +8,11 @@ namespace MesadeAyuda
 {
     public class Usuario: Persona /*Herencia*/
     {
-        private int Id;
         public string NombreUsuario;
         private string Password;
         public bool EsActivo;
         public Persona Persona;
-        public Rol Rol;
+        public Ubicacion Ubicacion;
 
         public Usuario(Persona persona):base(persona) /*Herencia*/
         { 
