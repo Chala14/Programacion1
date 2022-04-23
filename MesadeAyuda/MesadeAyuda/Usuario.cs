@@ -18,19 +18,19 @@ namespace MesadeAyuda
         { 
         }
 
-        public CrearUsuario()/*Método*/
+        public void CrearUsuario()/*Método*/
         { 
         }
 
-        public ConsultarUsuario()/*Método*/
+        public void ConsultarUsuario()/*Método*/
         {
         }
 
-        public ActualizarUsuario()/*Método*/
+        public void ActualizarUsuario()/*Método*/
         {
         }
 
-        public VerificarPassword()/*Método*/
+        public void VerificarPassword()/*Método*/
         {
         }
     }
